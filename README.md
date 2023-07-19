@@ -1,5 +1,5 @@
 # PowerBI_project-HR_Analytics_DashBoard:
-Complete project. Topics covered in this video:
+Complete project. Topics covered :
 - Import data
 - Data cleaning n Processing
 - Power Query
